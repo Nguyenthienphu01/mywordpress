@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/product/womens-socks-socks-on-sale/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenthienphu01.github.io/mywordpress/product/womens-socks-socks-on-sale/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 09:39:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 06:47:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
