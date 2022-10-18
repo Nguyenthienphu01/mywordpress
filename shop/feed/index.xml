@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Products &#8211; nguyenphu</title>
+	<title>Sản phẩm &#8211; nguyenphu</title>
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenthienphu01.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 18 Oct 2022 08:35:27 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
