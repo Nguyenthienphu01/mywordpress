@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Bình luận cho nguyenphu	</title>
+	Comments for nguyenphu	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenthienphu01.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -19,8 +19,8 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://nguyenthienphu01.github.io/mywordpress/2022/08/23/chao-moi-nguoi/#comment-1</link>
+		Comment on Chào tất cả mọi người! by Một người bình luận WordPress		</title>
+		<link>https://nguyenthienphu01.github.io/mywordpress/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2022 07:16:34 +0000</pubDate>
